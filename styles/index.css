@@ -1,0 +1,95 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #003049;
+  text-align: left;
+  background-color: #eae2b7;
+}
+
+/* nav menu */
+.nav-text {
+  color: #003049;
+}
+
+/* header */
+#home {
+  min-height: 100vh;
+}
+
+.intro-h3,
+.name-h1,
+.job-h1 {
+  color: #003049;
+}
+
+.my-image {
+  margin-left: -100px;
+  right: -60px;
+}
+
+.hero-text {
+  margin-top: 150px;
+}
+
+/* about */
+.about-head {
+  color: #d62828;
+}
+.about-text {
+  color: #d62828;
+}
+
+/* skills */
+.skills-head {
+  color: #003049;
+}
+
+/* progress bar */
+.pg-html {
+  background-color: #d90429;
+}
+
+.pg-css {
+  background-color: cornflowerblue;
+}
+
+.pg-bootstrap {
+  background-color: #8338ec;
+}
+
+.pg-javascript {
+  background-color: #ffbe0b;
+}
+
+.pg-react {
+  background-color: skyblue;
+}
+
+/* contact */
+.contact-head {
+  color: #d62828;
+}
+
+/* form */
+#submit {
+  border: 1px solid #003049;
+  text-align: center;
+}
+
+#submit:hover {
+  background-color: #fcbf49;
+}
+
+/* footer */
+.foot-main {
+  background-color: #fcbf49;
+}
+.foot-text {
+  font-family: "Poppins", sans-serif;
+  color: #003049;
+}
